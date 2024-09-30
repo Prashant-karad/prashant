@@ -10,10 +10,4 @@ void printFibonacci(int n) {
     }
 }
 
-int main() {
-    int n;
-    std::cout << "Enter the number of terms: ";
-    std::cin >> n;
-    printFibonacci(n);
-    return 0;
-}
+changes made
